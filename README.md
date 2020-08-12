@@ -35,6 +35,11 @@ This repository contains a list of well-known software companies in Montenegro
 | SynergySuite | https://www.synergysuite.com/ |
 | Tacka | https://www.tacka.me/ |
 | Uhura | https://uhurasolutions.com/ |
+| MahnaMahna         | http://www.mahnamahna.me/en/    |       |                       |                |                   |
+| WebCenter          | https://www.webcenter.me/       |       |                       |                |                   |
+| WebbHolding        | http://webbholding.me/          |       |                       |                |                   |
+| Proventum          | https://proventum.me/           |       |                       |                |                   |
+| Datum              | https://www.dcgteam.com/        |       |                       |                |                   |
 | - | - |
 
 ## Motivation
