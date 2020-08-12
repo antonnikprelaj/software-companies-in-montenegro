@@ -4,40 +4,43 @@ This repository contains a list of well-known software companies in Montenegro
 
 ## List of software companies in Montenegro
 
-| Company Name       | Website                         | About | Gross Income (Yearly) | # of employees | Technology Stacks |
-| ------------------ | ------------------------------- | ----- | --------------------- | -------------- | ----------------- |
-| Amplitudo          | https://amplitudo.me/           |       |                       |                |                   |
-| Bild Studio        | https://www.bild-studio.com/    |       |                       |                |                   |
-| Bravo Studio       |                                 |       |                       |                |                   |
-| Codepixel          | https://www.codepixel.me/       |       |                       |                |                   |
-| Codingo            | https://codingo.me/             |       |                       |                |                   |
-| Coinis             | https://coinis.com/             |       |                       |                |                   |
-| Creatiwwwa         | https://www.creatiwwwa.me/      |       |                       |                |                   |
-| Datadesign         | https://datadesign.me/          |       |                       |                |                   |
-| Datalab            | https://www.datalab.me/         |       |                       |                |                   |
-| Datasolutions      | https://www.datasolutions.rs/   |       |                       |                |                   |
-| Digitalcontrol     | https://digitalcontrol.me/      |       |                       |                |                   |
-| Dms Solutions      | http://dmssolutions.me/         |       |                       |                |                   |
-| Fleka              | https://www.fleka.me/           |       |                       |                |                   |
-| Igaminggroup       | http://www.igaminggroup.com/    |       |                       |                |                   |
-| Locastic           | https://www.locastic.com/       |       |                       |                |                   |
-| Logate             | https://logate.com/             |       |                       |                |                   |
-| Montex Elektronika |                                 |       |                       |                |                   |
-| Omnitech           |                                 |       |                       |                |                   |
-| Rise Agency        | http://riseagency.me/           |       |                       |                |                   |
-| S&T Montenegro     | http://www.snt.me/              |       |                       |                |                   |
-| Smart Star Media   | https://www.smartstarmedia.com/ |       |                       |                |                   |
-| Smart Tech         | http://www.smart-tech.me        |       |                       |                |                   |
-| SynergySuite       | https://www.synergysuite.com/   |       |                       |                |                   |
-| Tacka              | https://www.tacka.me/           |       |                       |                |                   |
-| Uhura              | https://uhurasolutions.com/     |       |                       |                |                   |
+| Company Name | Website | About | Gross Income (Yearly) | # of employees | Technology Stacks |
+| --- | --- | --- | --- | --- | --- |
+| Alicorn | https://alicorn.me/en/ |
+| Amplitudo | https://amplitudo.me/ |
+| Bild Studio | https://www.bild-studio.com/ |
+| Bravo Studio |
+| Codepixel | https://www.codepixel.me/ |
+| Codingo | https://codingo.me/ |
+| Coinis | https://coinis.com/ |
+| Creatiwwwa | https://www.creatiwwwa.me/ |
+| Datadesign | https://datadesign.me/ |
+| Datalab | https://www.datalab.me/ |
+| Datasolutions | https://www.datasolutions.rs/ |
+| Digitalcontrol | https://digitalcontrol.me/ |
+| Dms Solutions | http://dmssolutions.me/ |
+| Fleka | https://www.fleka.me/ |
+| Igaminggroup | http://www.igaminggroup.com/ |
+| International bridge | https://www.myib.com/ |
+| Locastic | https://www.locastic.com/ |
+| Logate | https://logate.com/ |
+| Media Monkeys	| 
+| Montex Elektronika |
+| Omnitech |
+| Rise Agency | http://riseagency.me/ |
+| Rubik | http://www.rubik.me/ |
+| S&T Montenegro | http://www.snt.me/ |
+| Smart Star Media | https://www.smartstarmedia.com/ |
+| Smart Tech | http://www.smart-tech.me |
+| SynergySuite | https://www.synergysuite.com/ |
+| Tacka | https://www.tacka.me/ |
+| Uhura | https://uhurasolutions.com/ |
 | MahnaMahna         | http://www.mahnamahna.me/en/    |       |                       |                |                   |
 | WebCenter          | https://www.webcenter.me/       |       |                       |                |                   |
 | WebbHolding        | http://webbholding.me/          |       |                       |                |                   |
 | Proventum          | https://proventum.me/           |       |                       |                |                   |
 | Datum              | https://www.dcgteam.com/        |       |                       |                |                   |
-
-
+| - | - |
 
 ## Motivation
 
