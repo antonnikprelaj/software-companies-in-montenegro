@@ -6,6 +6,7 @@ This repository contains a list of well-known software companies in Montenegro
 
 | Company Name | Website | About | Gross Income (Yearly) | # of employees | Technology Stacks |
 | --- | --- | --- | --- | --- | --- |
+| Alicorn | https://alicorn.me/en/ |
 | Amplitudo | https://amplitudo.me/ |
 | Bild Studio | https://www.bild-studio.com/ |
 | Bravo Studio |
@@ -20,11 +21,14 @@ This repository contains a list of well-known software companies in Montenegro
 | Dms Solutions | http://dmssolutions.me/ |
 | Fleka | https://www.fleka.me/ |
 | Igaminggroup | http://www.igaminggroup.com/ |
+| International bridge | https://www.myib.com/ |
 | Locastic | https://www.locastic.com/ |
 | Logate | https://logate.com/ |
+| Media Monkeys	| 
 | Montex Elektronika |
 | Omnitech |
 | Rise Agency | http://riseagency.me/ |
+| Rubik | http://www.rubik.me/ |
 | S&T Montenegro | http://www.snt.me/ |
 | Smart Star Media | https://www.smartstarmedia.com/ |
 | Smart Tech | http://www.smart-tech.me |
